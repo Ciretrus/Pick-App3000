@@ -25,16 +25,16 @@ Grab the latest build here:
 ## 🎯 What it does
 
 - **100% No-Code**: Powered purely by Unity Inspector events, native UI clicks, and sheer willpower.
-- **The Good Ending (Yes)**: Hit it and trigger an instant explosion of celebratory confetti[cite: 1].
-- **Emotional Damage (No)**: Hit it and get drowned in a dramatic shower of crying emojis[cite: 2].
-- **Evidence Under the Buttons**: Missed the animation? The underline under "Yes"[cite: 1] or "No"[cite: 2] keeps the score long after the confetti settles.
-- **International Flirting**: Toggle between English and Russian with a single tap[cite: 1, 2].
+- **The Good Ending (Yes)**: Hit it and trigger an instant explosion of celebratory confetti.
+- **Emotional Damage (No)**: Hit it and get drowned in a dramatic shower of crying emojis.
+- **Evidence Under the Buttons**: Missed the animation? The underline under "Yes" or "No" keeps the score long after the confetti settles.
+- **International Flirting**: Toggle between English and Russian with a single tap.
 
 ---
 
 ## 🕹 How to use
 
 1. Hand the phone over.
-2. Cross your fingers for the confetti[cite: 1].
-3. Look for the underline below the buttons if the screen was turned away[cite: 1, 2].
+2. Cross your fingers for the confetti.
+3. Look for the underline below the buttons if the screen was turned away.
 4. Accept the verdict.
