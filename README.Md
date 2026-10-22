@@ -6,6 +6,15 @@ Designed to ask the hard questions so you don't have to face the awkward silence
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="ReadMeScreenshots/confetti.png" width="300" alt="Yes Option - Confetti" />
+  <img src="ReadMeScreenshots/sad.png" width="300" alt="No Option - Crying Emojis" />
+</p>
+
+---
+
 ## 🎯 What it does
 
 - **100% No-Code**: Powered purely by Unity Inspector events, native UI clicks, and sheer willpower.
