@@ -6,6 +6,13 @@ Designed to ask the hard questions so you don't have to face the awkward silence
 
 ---
 
+## 📥 Download
+
+Grab the latest build here:  
+👉 [**Download pick-app3000 (Latest Release)**](https://github.com/Ciretrus/Pick-App3000/releases/tag/release)
+
+---
+
 ## 📸 Screenshots
 
 <p align="center">
